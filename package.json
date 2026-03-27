@@ -1,0 +1,22 @@
+{
+  "name": "chadminton-jumbotron",
+  "version": "1.0.0",
+  "description": "Chadminton scoreboard, sound effects, videos, and graphics",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"no tests\"",
+    "start": "electron ."
+  },
+  "keywords": [
+    "chadminton",
+    "scoreboard",
+    "soundboard",
+    "videoboard",
+    "jumbotron"
+  ],
+  "author": "Alex Merkert",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^36.4.0"
+  }
+}
